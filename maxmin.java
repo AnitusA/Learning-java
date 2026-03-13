@@ -36,6 +36,6 @@ public class maxmin {
         System.out.println("Minimum value: " + min);
         
         scanner.close();
-    }--
+    }
     
 }
