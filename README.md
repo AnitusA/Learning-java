@@ -125,7 +125,7 @@ java Factorial
 
 ## Suggested Learning Path
 
-If you are using this repository as a learning resource, a good order is:
+If you are using this repository as a learning resource, a good order is according to my experience:
 
 1. Start with `hello.java`, `SimpleCalculator.java`, and `Agechecker.java`
 2. Move to logic programs like `Factorial.java` and `Fibonacciseries.java`
