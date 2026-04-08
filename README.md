@@ -19,7 +19,7 @@ The programs in this repository cover:
 ## Project Structure
 
 This repository contains standalone Java files rather than a single packaged application. Each file can be compiled and executed independently.
-
+---
 ### Core Basics
 
 - `hello.java`
